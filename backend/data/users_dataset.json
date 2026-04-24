@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "mov",
+    "email": "mov@gmail.com",
+    "password": "mov123",
+    "created_at": "2026-04-21T17:36:16.491Z"
+  },
+  {
+    "id": 2,
+    "name": "jay",
+    "email": "jay@gmail.com",
+    "password": "Jay123",
+    "created_at": "2026-04-21T17:43:59.385Z"
+  }
+]

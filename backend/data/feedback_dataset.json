@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "userName": "Jay",
+    "email": "jay@gmail.com",
+    "rating": 5,
+    "message": "Overall good exp with AyurvedaZen",
+    "created_at": "2026-04-21T17:30:02.551Z"
+  },
+  {
+    "id": 2,
+    "userName": "Mohit",
+    "email": "moh@123",
+    "rating": 5,
+    "message": "this was grate",
+    "created_at": "2026-04-23T07:03:55.583Z"
+  },
+  {
+    "id": 3,
+    "userName": "suhana",
+    "email": "suhana@gmail",
+    "rating": 5,
+    "message": "good",
+    "created_at": "2026-04-23T09:20:47.810Z"
+  }
+]

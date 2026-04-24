@@ -1,0 +1,954 @@
+[
+  {
+    "id": 1,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Irregular - sometimes good, sometimes poor with gas or bloating"
+      }
+    ],
+    "result": "Vata",
+    "scores": {
+      "Vata": 2,
+      "Pitta": 0,
+      "Kapha": 0
+    },
+    "created_at": "2026-04-20T12:01:47.841Z"
+  },
+  {
+    "id": 2,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Warm, oily, prone to redness or acne"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Slow and steady — I can skip meals without discomfort"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Variable — sometimes ravenous, sometimes no appetite"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Light sleeper, often wake up in the middle of the night"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become withdrawn, lethargic, or avoid the situation"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Thick, wavy, lustrous, and abundant"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I am adaptable but dislike cold and damp weather"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Moderate and focused energy throughout the day"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn quickly but forget quickly too"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Gentle, steady exercises or prefer to rest"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Regular, sometimes loose or burning sensation"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Slow, calm, melodious, and thoughtful"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Calm and content but prone to attachment and laziness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Cold, dry, and windy weather"
+      }
+    ],
+    "result": "Kapha",
+    "scores": {
+      "Vata": 5,
+      "Pitta": 3,
+      "Kapha": 7
+    },
+    "created_at": "2026-04-20T12:06:00.116Z"
+  },
+  {
+    "id": 3,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Medium build, muscular and well-proportioned"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Irregular — sometimes good, sometimes poor with gas or bloating"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Variable — sometimes ravenous, sometimes no appetite"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Light sleeper, often wake up in the middle of the night"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become anxious, worried, or fearful"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Thick, wavy, lustrous, and abundant"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel warm easily and prefer cooler environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Moderate and focused energy throughout the day"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn slowly but remember for a long time"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Gentle, steady exercises or prefer to rest"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Regular but heavy, may feel sluggish after meals"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Fast, talkative, and sometimes scattered"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Enthusiastic but prone to anxiety and nervousness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Cold, dry, and windy weather"
+      }
+    ],
+    "result": "Vata",
+    "scores": {
+      "Vata": 8,
+      "Pitta": 3,
+      "Kapha": 4
+    },
+    "created_at": "2026-04-20T12:33:44.949Z"
+  },
+  {
+    "id": 4,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Strong and fast - I get irritable if I skip meals"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Strong and intense - I must eat on time"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Deep and heavy sleeper, hard to wake up"
+      }
+    ],
+    "result": "Vata",
+    "scores": {
+      "Vata": 2,
+      "Pitta": 0,
+      "Kapha": 1
+    },
+    "created_at": "2026-04-20T12:55:38.757Z"
+  },
+  {
+    "id": 5,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Irregular — sometimes good, sometimes poor with gas or bloating"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Variable — sometimes ravenous, sometimes no appetite"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Light sleeper, often wake up in the middle of the night"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become anxious, worried, or fearful"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Dry, frizzy, thin, and prone to split ends"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel cold easily and prefer warm environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Energy comes in bursts — I tire quickly"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn quickly but forget quickly too"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Light activities like walking, yoga, or dancing"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Irregular, sometimes constipated with dry/hard stools"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Fast, talkative, and sometimes scattered"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Enthusiastic but prone to anxiety and nervousness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Cold, dry, and windy weather"
+      }
+    ],
+    "result": "Vata",
+    "scores": {
+      "Vata": 15,
+      "Pitta": 0,
+      "Kapha": 0
+    },
+    "created_at": "2026-04-20T12:56:17.866Z"
+  },
+  {
+    "id": 6,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Strong and fast - I get irritable if I skip meals"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Strong and intense - I must eat on time"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Deep and heavy sleeper, hard to wake up"
+      }
+    ],
+    "result": "Vata",
+    "scores": {
+      "Vata": 2,
+      "Pitta": 0,
+      "Kapha": 1
+    },
+    "created_at": "2026-04-20T12:56:43.222Z"
+  },
+  {
+    "id": 7,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Medium build, muscular and well-proportioned"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Warm, oily, prone to redness or acne"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Strong and fast — I get irritable if I skip meals"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Variable — sometimes ravenous, sometimes no appetite"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Deep and heavy sleeper, hard to wake up"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become withdrawn, lethargic, or avoid the situation"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Thick, wavy, lustrous, and abundant"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel cold easily and prefer warm environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Energy comes in bursts — I tire quickly"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn slowly but remember for a long time"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Competitive sports, swimming, or challenging workouts"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Regular but heavy, may feel sluggish after meals"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Clear, precise, and sometimes sharp or argumentative"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Enthusiastic but prone to anxiety and nervousness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Cold, dry, and windy weather"
+      }
+    ],
+    "result": "Vata-Pitta-Kapha",
+    "scores": {
+      "Vata": 5,
+      "Pitta": 5,
+      "Kapha": 5
+    },
+    "created_at": "2026-04-20T13:59:29.740Z"
+  },
+  {
+    "id": 8,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Irregular — sometimes good, sometimes poor with gas or bloating"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Variable — sometimes ravenous, sometimes no appetite"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Light sleeper, often wake up in the middle of the night"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become anxious, worried, or fearful"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Dry, frizzy, thin, and prone to split ends"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel warm easily and prefer cooler environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Energy comes in bursts — I tire quickly"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn quickly but forget quickly too"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Competitive sports, swimming, or challenging workouts"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Irregular, sometimes constipated with dry/hard stools"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Fast, talkative, and sometimes scattered"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Enthusiastic but prone to anxiety and nervousness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Cold, dry, and windy weather"
+      }
+    ],
+    "result": "Vata",
+    "scores": {
+      "Vata": 13,
+      "Pitta": 2,
+      "Kapha": 0
+    },
+    "created_at": "2026-04-20T14:01:50.562Z"
+  },
+  {
+    "id": 9,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Irregular — sometimes good, sometimes poor with gas or bloating"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Variable — sometimes ravenous, sometimes no appetite"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Moderate sleep, may have vivid or intense dreams"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become irritable, angry, or frustrated"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Fine, straight, oily, with early greying or thinning"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel cold easily and prefer warm environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Energy comes in bursts — I tire quickly"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn quickly but forget quickly too"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Light activities like walking, yoga, or dancing"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Irregular, sometimes constipated with dry/hard stools"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Fast, talkative, and sometimes scattered"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Enthusiastic but prone to anxiety and nervousness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Hot, humid, and sunny weather"
+      }
+    ],
+    "result": "Vata",
+    "scores": {
+      "Vata": 11,
+      "Pitta": 4,
+      "Kapha": 0
+    },
+    "created_at": "2026-04-20T14:25:47.331Z"
+  },
+  {
+    "id": 10,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Warm, oily, prone to redness or acne"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Irregular — sometimes good, sometimes poor with gas or bloating"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Variable — sometimes ravenous, sometimes no appetite"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Light sleeper, often wake up in the middle of the night"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become anxious, worried, or fearful"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Dry, frizzy, thin, and prone to split ends"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel cold easily and prefer warm environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Energy comes in bursts — I tire quickly"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn quickly but forget quickly too"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Light activities like walking, yoga, or dancing"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Irregular, sometimes constipated with dry/hard stools"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Fast, talkative, and sometimes scattered"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Enthusiastic but prone to anxiety and nervousness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Cold, dry, and windy weather"
+      }
+    ],
+    "result": "Vata",
+    "scores": {
+      "Vata": 14,
+      "Pitta": 1,
+      "Kapha": 0
+    },
+    "created_at": "2026-04-20T14:30:49.257Z"
+  },
+  {
+    "id": 11,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Strong and fast — I get irritable if I skip meals"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Strong and intense — I must eat on time"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Moderate sleep, may have vivid or intense dreams"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become irritable, angry, or frustrated"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Fine, straight, oily, with early greying or thinning"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel warm easily and prefer cooler environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Moderate and focused energy throughout the day"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn at a moderate pace with good focus"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Competitive sports, swimming, or challenging workouts"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Regular, sometimes loose or burning sensation"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Clear, precise, and sometimes sharp or argumentative"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Determined and passionate but prone to anger"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Hot, humid, and sunny weather"
+      }
+    ],
+    "result": "Pitta",
+    "scores": {
+      "Vata": 2,
+      "Pitta": 13,
+      "Kapha": 0
+    },
+    "created_at": "2026-04-20T16:08:19.625Z"
+  },
+  {
+    "id": 12,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Slow and steady — I can skip meals without discomfort"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Variable — sometimes ravenous, sometimes no appetite"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Light sleeper, often wake up in the middle of the night"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become anxious, worried, or fearful"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Dry, frizzy, thin, and prone to split ends"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel cold easily and prefer warm environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Energy comes in bursts — I tire quickly"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn quickly but forget quickly too"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Light activities like walking, yoga, or dancing"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Irregular, sometimes constipated with dry/hard stools"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Fast, talkative, and sometimes scattered"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Enthusiastic but prone to anxiety and nervousness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Cold, dry, and windy weather"
+      }
+    ],
+    "result": "Vata",
+    "scores": {
+      "Vata": 14,
+      "Pitta": 0,
+      "Kapha": 1
+    },
+    "created_at": "2026-04-21T06:05:45.027Z"
+  },
+  {
+    "id": 13,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Medium build, muscular and well-proportioned"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Strong and fast — I get irritable if I skip meals"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Strong and intense — I must eat on time"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Moderate sleep, may have vivid or intense dreams"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become irritable, angry, or frustrated"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Fine, straight, oily, with early greying or thinning"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel warm easily and prefer cooler environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Moderate and focused energy throughout the day"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn at a moderate pace with good focus"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Competitive sports, swimming, or challenging workouts"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Irregular, sometimes constipated with dry/hard stools"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Clear, precise, and sometimes sharp or argumentative"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Enthusiastic but prone to anxiety and nervousness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Hot, humid, and sunny weather"
+      }
+    ],
+    "result": "Pitta",
+    "scores": {
+      "Vata": 3,
+      "Pitta": 12,
+      "Kapha": 0
+    },
+    "created_at": "2026-04-21T16:35:51.229Z"
+  },
+  {
+    "id": 14,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Thin and lean, difficulty gaining weight"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Dry, rough, and cool to touch"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Slow and steady — I can skip meals without discomfort"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Strong and intense — I must eat on time"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Moderate sleep, may have vivid or intense dreams"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become irritable, angry, or frustrated"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Fine, straight, oily, with early greying or thinning"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel warm easily and prefer cooler environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Moderate and focused energy throughout the day"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn quickly but forget quickly too"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Light activities like walking, yoga, or dancing"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Regular, sometimes loose or burning sensation"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Clear, precise, and sometimes sharp or argumentative"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Enthusiastic but prone to anxiety and nervousness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Hot, humid, and sunny weather"
+      }
+    ],
+    "result": "Pitta",
+    "scores": {
+      "Vata": 5,
+      "Pitta": 9,
+      "Kapha": 1
+    },
+    "created_at": "2026-04-23T09:16:47.983Z"
+  },
+  {
+    "id": 15,
+    "answers": [
+      {
+        "questionId": 1,
+        "selectedOption": "Medium build, muscular and well-proportioned"
+      },
+      {
+        "questionId": 2,
+        "selectedOption": "Warm, oily, prone to redness or acne"
+      },
+      {
+        "questionId": 3,
+        "selectedOption": "Slow and steady — I can skip meals without discomfort"
+      },
+      {
+        "questionId": 4,
+        "selectedOption": "Steady but moderate — I can go without food for long"
+      },
+      {
+        "questionId": 5,
+        "selectedOption": "Moderate sleep, may have vivid or intense dreams"
+      },
+      {
+        "questionId": 6,
+        "selectedOption": "I become anxious, worried, or fearful"
+      },
+      {
+        "questionId": 7,
+        "selectedOption": "Dry, frizzy, thin, and prone to split ends"
+      },
+      {
+        "questionId": 8,
+        "selectedOption": "I feel cold easily and prefer warm environments"
+      },
+      {
+        "questionId": 9,
+        "selectedOption": "Energy comes in bursts — I tire quickly"
+      },
+      {
+        "questionId": 10,
+        "selectedOption": "I learn quickly but forget quickly too"
+      },
+      {
+        "questionId": 11,
+        "selectedOption": "Light activities like walking, yoga, or dancing"
+      },
+      {
+        "questionId": 12,
+        "selectedOption": "Irregular, sometimes constipated with dry/hard stools"
+      },
+      {
+        "questionId": 13,
+        "selectedOption": "Fast, talkative, and sometimes scattered"
+      },
+      {
+        "questionId": 14,
+        "selectedOption": "Enthusiastic but prone to anxiety and nervousness"
+      },
+      {
+        "questionId": 15,
+        "selectedOption": "Cold, dry, and windy weather"
+      }
+    ],
+    "result": "Vata",
+    "scores": {
+      "Vata": 10,
+      "Pitta": 3,
+      "Kapha": 2
+    },
+    "created_at": "2026-04-23T14:13:38.648Z"
+  }
+]

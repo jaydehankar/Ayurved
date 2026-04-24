@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "What is your body frame like?",
+    "category": "Body Type",
+    "options": [
+      { "text": "Thin and lean, difficulty gaining weight", "type": "Vata" },
+      { "text": "Medium build, muscular and well-proportioned", "type": "Pitta" },
+      { "text": "Large and sturdy, gains weight easily", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "How would you describe your skin?",
+    "category": "Skin",
+    "options": [
+      { "text": "Dry, rough, and cool to touch", "type": "Vata" },
+      { "text": "Warm, oily, prone to redness or acne", "type": "Pitta" },
+      { "text": "Thick, smooth, and moist", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How is your digestion generally?",
+    "category": "Digestion",
+    "options": [
+      { "text": "Irregular — sometimes good, sometimes poor with gas or bloating", "type": "Vata" },
+      { "text": "Strong and fast — I get irritable if I skip meals", "type": "Pitta" },
+      { "text": "Slow and steady — I can skip meals without discomfort", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "How would you describe your appetite?",
+    "category": "Appetite",
+    "options": [
+      { "text": "Variable — sometimes ravenous, sometimes no appetite", "type": "Vata" },
+      { "text": "Strong and intense — I must eat on time", "type": "Pitta" },
+      { "text": "Steady but moderate — I can go without food for long", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How do you sleep?",
+    "category": "Sleep",
+    "options": [
+      { "text": "Light sleeper, often wake up in the middle of the night", "type": "Vata" },
+      { "text": "Moderate sleep, may have vivid or intense dreams", "type": "Pitta" },
+      { "text": "Deep and heavy sleeper, hard to wake up", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "How do you handle stress?",
+    "category": "Mental Health",
+    "options": [
+      { "text": "I become anxious, worried, or fearful", "type": "Vata" },
+      { "text": "I become irritable, angry, or frustrated", "type": "Pitta" },
+      { "text": "I become withdrawn, lethargic, or avoid the situation", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "What is your hair like?",
+    "category": "Hair",
+    "options": [
+      { "text": "Dry, frizzy, thin, and prone to split ends", "type": "Vata" },
+      { "text": "Fine, straight, oily, with early greying or thinning", "type": "Pitta" },
+      { "text": "Thick, wavy, lustrous, and abundant", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "How is your body temperature preference?",
+    "category": "Temperature",
+    "options": [
+      { "text": "I feel cold easily and prefer warm environments", "type": "Vata" },
+      { "text": "I feel warm easily and prefer cooler environments", "type": "Pitta" },
+      { "text": "I am adaptable but dislike cold and damp weather", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "How would you describe your energy levels?",
+    "category": "Energy",
+    "options": [
+      { "text": "Energy comes in bursts — I tire quickly", "type": "Vata" },
+      { "text": "Moderate and focused energy throughout the day", "type": "Pitta" },
+      { "text": "Steady but slow — I have great endurance", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "How do you learn new information?",
+    "category": "Learning",
+    "options": [
+      { "text": "I learn quickly but forget quickly too", "type": "Vata" },
+      { "text": "I learn at a moderate pace with good focus", "type": "Pitta" },
+      { "text": "I learn slowly but remember for a long time", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "What type of physical activity do you prefer?",
+    "category": "Exercise",
+    "options": [
+      { "text": "Light activities like walking, yoga, or dancing", "type": "Vata" },
+      { "text": "Competitive sports, swimming, or challenging workouts", "type": "Pitta" },
+      { "text": "Gentle, steady exercises or prefer to rest", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "How is your bowel movement pattern?",
+    "category": "Elimination",
+    "options": [
+      { "text": "Irregular, sometimes constipated with dry/hard stools", "type": "Vata" },
+      { "text": "Regular, sometimes loose or burning sensation", "type": "Pitta" },
+      { "text": "Regular but heavy, may feel sluggish after meals", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "How would you describe your speech pattern?",
+    "category": "Speech",
+    "options": [
+      { "text": "Fast, talkative, and sometimes scattered", "type": "Vata" },
+      { "text": "Clear, precise, and sometimes sharp or argumentative", "type": "Pitta" },
+      { "text": "Slow, calm, melodious, and thoughtful", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "How do you feel emotionally most of the time?",
+    "category": "Emotions",
+    "options": [
+      { "text": "Enthusiastic but prone to anxiety and nervousness", "type": "Vata" },
+      { "text": "Determined and passionate but prone to anger", "type": "Pitta" },
+      { "text": "Calm and content but prone to attachment and laziness", "type": "Kapha" }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "What type of weather bothers you the most?",
+    "category": "Weather Sensitivity",
+    "options": [
+      { "text": "Cold, dry, and windy weather", "type": "Vata" },
+      { "text": "Hot, humid, and sunny weather", "type": "Pitta" },
+      { "text": "Cold, damp, and rainy weather", "type": "Kapha" }
+    ]
+  }
+]
