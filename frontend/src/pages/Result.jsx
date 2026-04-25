@@ -1,4 +1,7 @@
+import { useState, useEffect } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
+
+const API_URL = 'http://localhost:5000/api';
 
 const doshaInfo = {
   Vata: {
@@ -29,6 +32,30 @@ function Result() {
   const navigate = useNavigate();
   const result = location.state?.result;
 
+  const [remedies, setRemedies] = useState(null);
+  const [remediesLoading, setRemediesLoading] = useState(false);
+  const [expandedRemedy, setExpandedRemedy] = useState(null);
+
+  const primaryDosha = result ? result.dominantDosha.split('-')[0] : null;
+  const info = primaryDosha ? (doshaInfo[primaryDosha] || doshaInfo.Vata) : null;
+
+  useEffect(() => {
+    if (primaryDosha) {
+      setRemediesLoading(true);
+      fetch(`${API_URL}/remedies/${primaryDosha}`)
+        .then((res) => res.json())
+        .then((data) => {
+          if (data.success) {
+            setRemedies(data.data);
+          }
+          setRemediesLoading(false);
+        })
+        .catch(() => {
+          setRemediesLoading(false);
+        });
+    }
+  }, [primaryDosha]);
+
   if (!result) {
     return (
       <div className="loading-container">
@@ -41,8 +68,6 @@ function Result() {
   }
 
   const { dominantDosha, scores, totalQuestions } = result;
-  const primaryDosha = dominantDosha.split('-')[0];
-  const info = doshaInfo[primaryDosha] || doshaInfo.Vata;
 
   return (
     <div className="result-page">
@@ -72,6 +97,58 @@ function Result() {
             </div>
           </div>
         ))}
+      </div>
+
+      {/* ── Personalized Remedies Section ── */}
+      <div className="remedies-section">
+        <div className="remedies-header">
+          <span className="remedies-badge">🌿 Personalized for {primaryDosha}</span>
+          <h2>Home Remedies & Recommendations</h2>
+          {remedies && <p className="remedies-summary">{remedies.summary}</p>}
+        </div>
+
+        {remediesLoading && (
+          <div className="remedies-loading">
+            <div className="spinner"></div>
+            <p>Loading your personalized remedies…</p>
+          </div>
+        )}
+
+        {!remediesLoading && remedies && (
+          <div className="remedies-grid">
+            {remedies.remedies.map((remedy) => (
+              <div
+                className={`remedy-card ${expandedRemedy === remedy.id ? 'expanded' : ''}`}
+                key={remedy.id}
+                onClick={() => setExpandedRemedy(expandedRemedy === remedy.id ? null : remedy.id)}
+              >
+                <div className="remedy-card-top">
+                  <span className="remedy-icon">{remedy.icon}</span>
+                  <span className={`remedy-category ${info.color}`}>{remedy.category}</span>
+                </div>
+                <h4 className="remedy-title">{remedy.title}</h4>
+                <p className="remedy-description">{remedy.description}</p>
+
+                {expandedRemedy === remedy.id && (
+                  <div className="remedy-howto">
+                    <div className="howto-label">
+                      <span>📋</span> How to prepare
+                    </div>
+                    <p>{remedy.howTo}</p>
+                  </div>
+                )}
+
+                <div className="remedy-expand-hint">
+                  {expandedRemedy === remedy.id ? 'Click to collapse ▲' : 'Click for instructions ▼'}
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+
+        {!remediesLoading && !remedies && (
+          <p className="no-remedies">Could not load remedies. Please make sure the backend server is running.</p>
+        )}
       </div>
 
       <div className="result-actions">

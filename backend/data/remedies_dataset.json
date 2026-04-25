@@ -1,0 +1,209 @@
+{
+  "Vata": {
+    "summary": "Vata imbalance leads to dryness, anxiety, and irregular digestion. These remedies focus on warmth, grounding, and nourishment.",
+    "remedies": [
+      {
+        "id": 1,
+        "category": "Diet",
+        "icon": "🍲",
+        "title": "Warm & Nourishing Foods",
+        "description": "Favour warm, cooked meals like soups, stews, and porridges. Include healthy fats like ghee, sesame oil, and avocados. Avoid raw, cold, and dry foods.",
+        "howTo": "Start your day with warm oatmeal cooked in milk with a teaspoon of ghee, cinnamon, and cardamom."
+      },
+      {
+        "id": 2,
+        "category": "Herbal Tea",
+        "icon": "🍵",
+        "title": "Ginger-Tulsi Tea",
+        "description": "A warming herbal tea that calms the nervous system and aids digestion. Ginger reduces bloating while Tulsi relieves stress.",
+        "howTo": "Boil 1 cup water with 1-inch fresh ginger and 5 tulsi leaves for 5 minutes. Strain, add honey, and drink warm twice daily."
+      },
+      {
+        "id": 3,
+        "category": "Oil Therapy",
+        "icon": "💧",
+        "title": "Abhyanga (Self-Massage)",
+        "description": "Warm sesame oil massage calms the nervous system, improves circulation, moisturizes dry skin, and deeply grounds Vata energy.",
+        "howTo": "Warm 2-3 tablespoons of sesame oil. Massage your entire body using long strokes on limbs and circular motions on joints. Wait 15 minutes, then take a warm shower."
+      },
+      {
+        "id": 4,
+        "category": "Spice Remedy",
+        "icon": "🫚",
+        "title": "Ashwagandha Milk",
+        "description": "Ashwagandha is an adaptogenic herb that reduces anxiety, promotes restful sleep, and strengthens the body — perfect for Vata imbalance.",
+        "howTo": "Mix ½ teaspoon ashwagandha powder in a cup of warm milk with a pinch of nutmeg and honey. Drink before bedtime."
+      },
+      {
+        "id": 5,
+        "category": "Lifestyle",
+        "icon": "🧘",
+        "title": "Grounding Yoga & Meditation",
+        "description": "Slow, steady yoga poses like Tree Pose, Warrior II, and Child's Pose help ground restless Vata energy. Pair with Nadi Shodhana (alternate nostril breathing).",
+        "howTo": "Practice 20 minutes of gentle yoga followed by 10 minutes of alternate nostril breathing every morning."
+      },
+      {
+        "id": 6,
+        "category": "Home Remedy",
+        "icon": "🌿",
+        "title": "Triphala for Digestion",
+        "description": "Triphala is a gentle herbal formula that regulates bowel movements and detoxifies the digestive tract — essential for Vata's irregular digestion.",
+        "howTo": "Mix ½ teaspoon Triphala powder in warm water. Drink 30 minutes before bedtime on an empty stomach."
+      },
+      {
+        "id": 7,
+        "category": "Routine",
+        "icon": "⏰",
+        "title": "Establish a Daily Routine",
+        "description": "Vata thrives on regularity. Eating, sleeping, and waking at consistent times reduces anxiety and restores balance.",
+        "howTo": "Wake at 6 AM, eat meals at fixed times (8 AM, 12:30 PM, 6:30 PM), and sleep by 10 PM. Avoid skipping meals."
+      },
+      {
+        "id": 8,
+        "category": "Bath Therapy",
+        "icon": "🛁",
+        "title": "Warm Herbal Bath",
+        "description": "A warm bath infused with calming herbs like lavender and chamomile soothes Vata's restlessness and promotes deep relaxation.",
+        "howTo": "Add 5 drops of lavender essential oil and 1 cup of Epsom salt to a warm bath. Soak for 20 minutes before bed."
+      }
+    ]
+  },
+  "Pitta": {
+    "summary": "Pitta imbalance causes excess heat, inflammation, irritability, and skin issues. These remedies focus on cooling, calming, and soothing.",
+    "remedies": [
+      {
+        "id": 1,
+        "category": "Diet",
+        "icon": "🥗",
+        "title": "Cooling & Fresh Foods",
+        "description": "Favour sweet, bitter, and astringent tastes. Include cucumbers, melons, leafy greens, coconut, and dairy. Avoid spicy, oily, and fried foods.",
+        "howTo": "Prepare a daily cooling salad with cucumber, mint, cilantro, and a squeeze of lime. Use coconut oil for cooking instead of mustard oil."
+      },
+      {
+        "id": 2,
+        "category": "Herbal Tea",
+        "icon": "🍵",
+        "title": "Mint-Fennel Cooler",
+        "description": "A refreshing herbal drink that cools internal heat, aids digestion, and reduces acidity — a natural antidote for Pitta fire.",
+        "howTo": "Steep 1 teaspoon fennel seeds and 8-10 fresh mint leaves in hot water for 7 minutes. Let it cool to room temperature. Drink 2-3 times daily."
+      },
+      {
+        "id": 3,
+        "category": "Oil Therapy",
+        "icon": "💧",
+        "title": "Coconut Oil Massage",
+        "description": "Coconut oil has natural cooling properties. A gentle massage reduces body heat, calms inflammation, and nourishes Pitta skin.",
+        "howTo": "Apply room-temperature coconut oil to your scalp and body. Massage gently for 10 minutes. Leave for 30 minutes, then shower with cool-to-lukewarm water."
+      },
+      {
+        "id": 4,
+        "category": "Spice Remedy",
+        "icon": "🫚",
+        "title": "Shatavari & Amla Tonic",
+        "description": "Shatavari cools and nourishes, while Amla (Indian Gooseberry) is rich in Vitamin C and reduces excess Pitta heat and acidity.",
+        "howTo": "Mix ½ teaspoon Shatavari powder and 1 teaspoon Amla powder in a glass of cool water or aloe vera juice. Drink on an empty stomach every morning."
+      },
+      {
+        "id": 5,
+        "category": "Lifestyle",
+        "icon": "🧘",
+        "title": "Cooling Yoga & Pranayama",
+        "description": "Gentle, non-competitive yoga like Moon Salutations and forward bends, paired with Sheetali (cooling breath), pacifies Pitta intensity.",
+        "howTo": "Practice 20 minutes of restorative yoga. Then sit comfortably, curl your tongue into a tube, inhale through the tongue, close the mouth, and exhale through the nose. Repeat 15 times."
+      },
+      {
+        "id": 6,
+        "category": "Home Remedy",
+        "icon": "🌿",
+        "title": "Aloe Vera Juice",
+        "description": "Aloe vera is one of the best Pitta-pacifying herbs. It cools the digestive tract, reduces heartburn, and purifies the blood.",
+        "howTo": "Drink 2 tablespoons of pure aloe vera juice mixed with water on an empty stomach every morning. Avoid if pregnant."
+      },
+      {
+        "id": 7,
+        "category": "Skin Care",
+        "icon": "✨",
+        "title": "Sandalwood & Rose Face Pack",
+        "description": "A cooling face treatment that soothes Pitta-related skin inflammation, redness, and acne. Rose and sandalwood are naturally cooling.",
+        "howTo": "Mix 1 teaspoon sandalwood powder with rose water to form a paste. Apply to the face for 15 minutes. Rinse with cool water. Use 2-3 times per week."
+      },
+      {
+        "id": 8,
+        "category": "Routine",
+        "icon": "🌙",
+        "title": "Moonlight & Nature Walks",
+        "description": "Spending time in cool moonlight and near water bodies naturally pacifies Pitta. Evening walks in gardens or by a lake are deeply therapeutic.",
+        "howTo": "Take a 20-minute walk in the evening after sunset, preferably near water or in a garden. Avoid intense midday sun."
+      }
+    ]
+  },
+  "Kapha": {
+    "summary": "Kapha imbalance leads to sluggishness, weight gain, congestion, and lethargy. These remedies focus on stimulation, warmth, and lightness.",
+    "remedies": [
+      {
+        "id": 1,
+        "category": "Diet",
+        "icon": "🌶️",
+        "title": "Light & Spicy Foods",
+        "description": "Favour pungent, bitter, and astringent tastes. Include ginger, black pepper, turmeric, leafy greens, and light grains like millet. Avoid heavy, oily, and sweet foods.",
+        "howTo": "Start meals with a small piece of fresh ginger sprinkled with lemon juice and salt. Choose steamed or lightly sautéed vegetables over creamy dishes."
+      },
+      {
+        "id": 2,
+        "category": "Herbal Tea",
+        "icon": "🍵",
+        "title": "Turmeric-Ginger-Pepper Tea",
+        "description": "A powerful warming tea that boosts metabolism, clears congestion, and ignites the digestive fire (Agni) — perfect for sluggish Kapha.",
+        "howTo": "Boil 1 cup water with ½ teaspoon turmeric, 1-inch ginger, and 3 black peppercorns for 5 minutes. Strain and add a squeeze of lemon. Drink 2-3 times daily."
+      },
+      {
+        "id": 3,
+        "category": "Oil Therapy",
+        "icon": "💧",
+        "title": "Dry Brushing (Garshana)",
+        "description": "Unlike oil massage, Kapha benefits from dry brushing which stimulates lymphatic drainage, breaks up stagnation, and energizes the body.",
+        "howTo": "Using raw silk gloves or a natural bristle brush, vigorously brush your skin in upward strokes toward the heart for 5-10 minutes before showering."
+      },
+      {
+        "id": 4,
+        "category": "Spice Remedy",
+        "icon": "🫚",
+        "title": "Trikatu (Three Peppers)",
+        "description": "A classical Ayurvedic formula of black pepper, long pepper, and ginger that boosts metabolism, clears mucus, and strengthens digestion.",
+        "howTo": "Mix ¼ teaspoon Trikatu powder with 1 teaspoon honey. Take before meals to kindle the digestive fire. Use for 2-3 weeks at a time."
+      },
+      {
+        "id": 5,
+        "category": "Lifestyle",
+        "icon": "🏃",
+        "title": "Vigorous Exercise",
+        "description": "Kapha needs dynamic movement to combat sluggishness. High-intensity workouts, brisk walks, jogging, or Surya Namaskar (Sun Salutations) are ideal.",
+        "howTo": "Practice 12 rounds of Surya Namaskar every morning, followed by 15 minutes of brisk walking or jogging. Exercise before 10 AM for best results."
+      },
+      {
+        "id": 6,
+        "category": "Home Remedy",
+        "icon": "🌿",
+        "title": "Honey & Warm Water",
+        "description": "Honey is considered the best remedy for Kapha in Ayurveda. It scrapes excess mucus and fat from the body when taken with warm water.",
+        "howTo": "Mix 1 tablespoon of raw honey in a glass of warm (not hot) water. Add a squeeze of lemon. Drink first thing every morning on an empty stomach."
+      },
+      {
+        "id": 7,
+        "category": "Breathing",
+        "icon": "💨",
+        "title": "Kapalabhati Pranayama",
+        "description": "A vigorous breathing technique that clears nasal passages, boosts energy, improves mental clarity, and burns off Kapha lethargy.",
+        "howTo": "Sit upright. Take a deep breath in, then exhale forcefully through the nose while pulling your navel toward the spine. Passive inhale. Repeat 30 times, rest, and do 3 rounds."
+      },
+      {
+        "id": 8,
+        "category": "Aromatherapy",
+        "icon": "🪻",
+        "title": "Eucalyptus & Camphor Steam",
+        "description": "Steam inhalation with eucalyptus and camphor clears congestion, opens sinuses, and energizes Kapha's heavy respiratory system.",
+        "howTo": "Boil water in a large bowl. Add 3-4 drops of eucalyptus oil and a pinch of camphor. Cover your head with a towel and inhale the steam for 10 minutes."
+      }
+    ]
+  }
+}

@@ -16,6 +16,7 @@ const RESPONSES_PATH = path.join(__dirname, 'data', 'responses_dataset.json');
 const USERS_PATH = path.join(__dirname, 'data', 'users_dataset.json');
 const FEEDBACK_PATH = path.join(__dirname, 'data', 'feedback_dataset.json');
 const DOCTORS_PATH = path.join(__dirname, 'data', 'doctors_dataset.json');
+const REMEDIES_PATH = path.join(__dirname, 'data', 'remedies_dataset.json');
 
 // ──────────────────────────────────────────────
 // Helper: safe read JSON
@@ -308,6 +309,42 @@ app.get('/api/feedback', (req, res) => {
   } catch (error) {
     console.error('Error reading feedback:', error);
     res.status(500).json({ success: false, message: 'Failed to load feedback' });
+  }
+});
+
+// ══════════════════════════════════════════════
+//  REMEDIES ROUTES
+// ══════════════════════════════════════════════
+
+// ──────────────────────────────────────────────
+// GET /api/remedies/:dosha — Return remedies for a specific dosha
+// ──────────────────────────────────────────────
+app.get('/api/remedies/:dosha', (req, res) => {
+  try {
+    const remedies = readJSON(REMEDIES_PATH);
+    const dosha = req.params.dosha.charAt(0).toUpperCase() + req.params.dosha.slice(1).toLowerCase();
+
+    if (!remedies[dosha]) {
+      return res.status(404).json({ success: false, message: `No remedies found for dosha: ${dosha}` });
+    }
+
+    res.json({ success: true, dosha, data: remedies[dosha] });
+  } catch (error) {
+    console.error('Error reading remedies:', error);
+    res.status(500).json({ success: false, message: 'Failed to load remedies' });
+  }
+});
+
+// ──────────────────────────────────────────────
+// GET /api/remedies — Return all remedies
+// ──────────────────────────────────────────────
+app.get('/api/remedies', (req, res) => {
+  try {
+    const remedies = readJSON(REMEDIES_PATH);
+    res.json({ success: true, remedies });
+  } catch (error) {
+    console.error('Error reading remedies:', error);
+    res.status(500).json({ success: false, message: 'Failed to load remedies' });
   }
 });
 
